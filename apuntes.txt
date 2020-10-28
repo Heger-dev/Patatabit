@@ -1,0 +1,24 @@
+En un proyecto hay unos pasos a seguir no necesariamente en este orden pero este orden nos da una buena introduccion a como se hace en el mundo laboral.
+
+1-analizar el diseño que nos den los diseñadores.
+
+// visualizar la estructura/ layout para saber bien que es lo que tenemos que acer
+
+// descargar todas las imagenes/iconos necesarias para hacer el proyecto.
+ 
+//descargar todas las fuentes que estan en el proyecto PD: el maximo de fuentes son 2 si tiene mas fuentes de ahi hay que hablar con los diseñadores para que la dismunuyan o eliminen algunas.
+ 
+
+2. Crear los estilos bases.
+
+//NOTA: estilos bases
+
+//Posicionamiento --> static, absolute, relative, fixed
+
+//Modelo de caja (Box model) --> margin, border, padding, content
+
+//Tipografía --> tipos, tamaños de fuente, etc
+
+//Estilos visuales --> box-shadow, border-radius, gradient, etc
+
+//Otros --> reglas CSS y más
